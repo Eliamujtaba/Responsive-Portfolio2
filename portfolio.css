@@ -1,0 +1,100 @@
+@media only screen and (max-width: 768px){
+
+.container {
+    width: 96%;
+    height: auto;
+    margin-left: 80px;
+    float: center;
+}
+
+    .navbar{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    margin-top: 0px
+    }
+
+    .header-name{
+    float: left;
+    background: #4aaaa5;
+    padding: 10px;
+    margin: 0px;
+    color: white;
+    margin-left: 146px;
+    }
+
+    .navbar ul{
+    float: right;
+    margin: 0px;
+    padding-right: 200px;
+    
+    }
+
+    .navbar ul li{
+    display: inline;
+    line-height: 60px;
+    padding: 10px;
+    text-align: center;
+    }
+
+    box1 {
+        width: 40%;
+        height: 30%;
+    }
+
+    .navbar ul li a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #000;
+    margin-right: 0px;
+    
+    }
+
+    .navbar ul li a:hover{
+    color:blue;
+    }
+
+    .message{
+    width: 400px;
+    }
+    
+    
+    .main{
+    width: 960px;
+    height: 300px;
+    margin-top: 20px;
+    float: center;
+    background-color:white;
+    margin-left: 300px;
+    }
+
+
+    body{
+    background-image: url(ep_naturalwhite.png);
+    
+    }
+    .main h2{
+    color: #4aaaa5;
+    margin: 0px;
+    padding: 5px;
+    }
+    
+    img{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    float: left;
+    }
+
+    .footer{
+    position: absolute;
+    padding: 20px;
+    text-align: center;
+    width: 80%;
+    background: white;
+    margin-top: 300px;
+    float: center;
+    margin-left: 150px;
+    margin-right: 100px;
+    }
+}
